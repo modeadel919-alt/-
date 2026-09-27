@@ -1,0 +1,10 @@
+{
+  "name": "DubAI - Real-Time AI Dubbing Studio",
+  "description": "Real-time AI audio dubbing, speech recognition, multilingual translation, and expressive voice synthesis powered by Google Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
